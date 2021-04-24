@@ -16,8 +16,8 @@ Connect and follow me via:
 
 Message me on: 
 <a><img width="90rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
-<a><img width="90rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> 
-<a><img width="100rem" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
+<a><img width="70rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> 
+<a><img width="140rem" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
 
 <p>Hello there, i'm Reymond Mesuga. I'm a physics student and currently working on my research on the application of artificial intelligence in the field of medical imaging and in the field of gravitation. I'm also doing front-end app development on my free time and some data analysis project.</p>
 
