@@ -9,12 +9,12 @@ Field of Interest:
 ![unmaintained](http://img.shields.io/badge/Machine-Learning-pink.png) 
 ![unmaintained](http://img.shields.io/badge/Deep-Learning-violet.png) <br>
 
-Connect and follow me via: 
+Socal Links: 
 <a><img width="90rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 <a><img width="90rem" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> 
 <a><img width="90rem" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a> <br>
 
-Message me on: 
+Contacts: 
 <a><img width="90rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 <a><img width="70rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> 
 <a><img width="140rem" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
