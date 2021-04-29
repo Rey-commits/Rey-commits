@@ -9,7 +9,7 @@
   <tr>
     <th>Field of Interest:</th>
     <th>I am open to:</th>
-    <th>Email me on:</th>
+    <th>Contact me on:</th>
   </tr>
   <tr>
     <td>Web and Software Development</td>
@@ -29,7 +29,7 @@
   <tr>
     <td>Data Analysis</td>
     <td></td>
-    <td>Student Email: rrmesuga@iskolarngbayan.pup.edu.ph</td>
+    <td>LinkedIn: https://www.linkedin.com/in/reymondmesuga-421/</td>
   </tr>
 </table>
 <h4><strong>Connect with me:</strong></h4>
