@@ -1,10 +1,12 @@
 ![citynights](https://user-images.githubusercontent.com/74803864/115126848-b57b4480-a004-11eb-951f-ea233d505a20.jpg)
 <h4><strong>Hello there, i'm <a href="https://rey-commits.github.io/Reymond-Portfolio/" target="_blank" rel="noopener noreferrer">Reymond Mesuga</a></strong></h4>
-<p>I'm a third year physics student at <a href="https://www.pup.edu.ph/">PUP Manila</a> and currently doing my research. I also enjoy doing front-end app development on my free time and some data analysis project. Please click my name to check my personal website. I am:</p>
+<p>I'm a third year physics student at <a href="https://www.pup.edu.ph/">PUP Manila</a> and currently doing my research. I also enjoy doing front-end app development on my free time and some data analysis project. I am:</p>
 <ul>
   <li>Currently working on my research on the application of artificial intelligence in the field of medical imaging and in the field of gravitaion.</li>
   <li>Currently growing my skills in Web/Software Development and Artificial Intelligence. I mainly use React framework on most of my app projects and Python libraries for artificial intelligence projects that is mostly focusing on prediction and classification. </li>
 </ul>
+<p><i>Please click my name to check my personal website.</i></p>
+
 <table>
   <tr>
     <th>Field of Interest:</th>
