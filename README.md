@@ -5,25 +5,33 @@
   <li>Currently working on my research on the application of artificial intelligence in the field of medical imaging and in the field of gravitaion.</li>
   <li>Currently growing my skills in Web/Software Development and Artificial Intelligence. I mainly use React library on most of my app projects and Python libraries for artificial intelligence projects that is mostly related to prediction and classification </li>
 </ul>
-<h4><strong>Field of Interest:</strong></h4>
-<ul>
-  <li>Web and Software Development</li>
-  <li>Deep Learning</li>
-  <li>Machine Learning</li>
-  <li>Data Analysis</li>
-</ul>
-<h4><strong>I am open to:</strong></h4>
-<ul>
-  <li>Web/Software Development Internship,</li>
-  <li>AI Engineering Internship</li>
-  <li>any collaboration work,</li>
-</ul>
-<h4><strong>Email me on:</strong></h4>
-  <ul>
-    <li>Gmail: mesugareymondrobin@gmail.com</li>
-    <li>Outlook: mesugareymondrobin@outlook.com</li>
-    <li>Student Email: rrmesuga@iskolarngbayan.pup.edu.ph</li>
-  </ul>
+<table>
+  <tr>
+    <th>Field of Interest:</th>
+    <th>I am open to:</th>
+    <th>Email me on:</th>
+  </tr>
+  <tr>
+    <td>Web and Software Development</td>
+    <td>Web/Software Development Internship</td>
+    <td>Gmail: mesugareymondrobin@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Deep Learning</td>
+    <td>AI Engineering Internship</td>
+    <td>Outlook: mesugareymondrobin@outlook.com</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Any collaboration work</td>
+    <td>Student Email: rrmesuga@iskolarngbayan.pup.edu.ph</td>  
+  </tr>
+  <tr>
+    <td>Data Analysis</td>
+    <td></td>
+    <td>Student Email: rrmesuga@iskolarngbayan.pup.edu.ph</td>
+  </tr>
+</table>
 <h4><strong>Connect with me:</strong></h4>
 <p align = "center">
 
