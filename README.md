@@ -18,39 +18,19 @@
   <li>AI Engineering Internship</li>
   <li>any collaboration work,</li>
 </ul>
-
+<h4><strong>Email me on:</strong></h4>
+  <ul>
+    <li>Gmail: mesugareymondrobin@gmail.com</li>
+    <li>Outlook: mesugareymondrobin@outlook.com</li>
+    <li>Student Email: rrmesuga@iskolarngbayan.pup.edu.ph</li>
+  </ul>
 <h4><strong>Connect with me:</strong></h4>
 <p align = "center">
 
 [<img width="90rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/reymondmesuga-421/)
 [<img width="90rem" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Rey-commits)
-[<img width="70rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mesugareymondrobin@gmail.com) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
-
+[<img width="90rem" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/reymond.mesugah/)
 </p>
 
 
-
-Check my online resume here: <a href="https://rey-commits.github.io/Reymond-Portfolio/" target="_blank" rel="noopener noreferrer"> ![unmaintained](http://img.shields.io/badge/Rey-Commits-blue.png)</a><br>
-
-Field of Interest: 
-![unmaintained](http://img.shields.io/badge/Web-Developmet-orange.png) 
-![unmaintained](http://img.shields.io/badge/Software-Development-gold.png) 
-![unmaintained](http://img.shields.io/badge/Data-Science-red.png) 
-![unmaintained](http://img.shields.io/badge/Machine-Learning-pink.png) 
-![unmaintained](http://img.shields.io/badge/Deep-Learning-violet.png) <br>
-
-Socal Links: 
-<a><img width="90rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
-<a><img width="90rem" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> 
-<a><img width="90rem" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a> <br>
-
-Contacts: 
-<a><img width="90rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
-<a><img width="70rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> 
-<a><img width="140rem" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
-
-<p>Hello there, i'm Reymond Mesuga. I'm a physics student and currently working on my research on the application of artificial intelligence in the field of medical imaging and in the field of gravitation. I'm also doing front-end app development on my free time and some data analysis project.</p>
 
