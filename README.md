@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>Data Analysis</td>
-    <td>Give my opinion on something, just message me.</td>
+    <td>Give my opinion on something. Just message me.</td>
     <td>LinkedIn: https://www.linkedin.com/in/reymondmesuga-421/</td>
   </tr>
 </table>
