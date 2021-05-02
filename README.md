@@ -19,17 +19,17 @@
     <td>Gmail: mesugareymondrobin@gmail.com</td>
   </tr>
   <tr>
-    <td>Deep Learning</td>
+    <td>Machine and Deep Learning</td>
     <td>AI Engineering Internship</td>
     <td>Outlook: mesugareymondrobin@outlook.com</td>
   </tr>
   <tr>
-    <td>Machine Learning</td>
+    <td>Data Analysis</td>
     <td>Any collaboration work</td>
     <td>Student Email: rrmesuga@iskolarngbayan.pup.edu.ph</td>  
   </tr>
   <tr>
-    <td>Data Analysis</td>
+    <td>Computational Physics</td>
     <td>Give my opinion on something. Just message me.</td>
     <td>LinkedIn: https://www.linkedin.com/in/reymondmesuga-421/</td>
   </tr>
