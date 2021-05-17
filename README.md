@@ -1,3 +1,5 @@
+<p align="center" ><img width="25%" src="https://user-images.githubusercontent.com/74803864/118489131-0f2f7580-b74f-11eb-9711-676d64a5d77b.gif"/></p>
+
 ![citynights](https://user-images.githubusercontent.com/74803864/115126848-b57b4480-a004-11eb-951f-ea233d505a20.jpg)
 <h4><strong>Hello there, i'm <a href="https://rey-commits.github.io/Reymond-Portfolio/" target="_blank" rel="noopener noreferrer">Reymond Mesuga</a></strong></h4>
 <p>I'm a programmer and a physics student at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I enjoy doing front-end app development on my free time as well as data analysis and A.I. projects. I am:</p>
