@@ -30,7 +30,7 @@
     <td>Student Email: rrmesuga@iskolarngbayan.pup.edu.ph</td>  
   </tr>
   <tr>
-    <td>Computational Physics</td>
+    <td>Programming in general</td>
     <td>Give my opinion on something. Just message me.</td>
     <td>LinkedIn: https://www.linkedin.com/in/reymondmesuga-421/</td>
   </tr>
