@@ -3,7 +3,7 @@
 <h4><strong>Hello there, i'm <a href="https://rey-commits.web.app/" target="_blank" rel="noopener noreferrer">Reymond Mesuga</a></strong></h4>
 <p>I'm a programmer and a physics student at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I enjoy doing front-end app development on my free time as well as data analysis and A.I. projects. I am:</p>
 <ul>
-  <li>Currently working on my research on the application of Deep Learning in the field of medical imaging and in the field of gravitation.</li>
+  <li>Currently working on a research about the application of Deep Learning in the field of medical imaging and in the field of gravitation.</li>
   <li>Currently growing my skills in Web/Software Development and Machine/Deep Learning. I mainly use React framework on most of my app projects and Python libraries for A.I. projects that are mostly focusing on prediction and classification. </li>
 </ul>
 <p><i>Please click my name to check my personal website.</i></p>
