@@ -35,6 +35,22 @@
     <td>LinkedIn: https://www.linkedin.com/in/reymondmesuga-421/</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>Research Field</th>
+    <th>Title</th>
+    <th>Author(s)</th>
+  </tr>
+  <tr>
+    <td>Deep Learning and Physics</td>
+    <td><a href="https://www.researchgate.net/publication/352981714_On_the_Efficiency_of_Various_Deep_Transfer_Learning_Models_in_Glitch_Waveform_Detection_in_Gravitational-_Wave_Data">On the Efficiency of Various Deep Transfer Learning Models in Glitch Waveform Detection in Gravitational-Wave Data</a></td>
+    <td>Mesuga, Reymond and Bayanay, Brian James</td>
+  </tr>
+</table>
+<h4><strong>Connect with me:</strong></h4>
+<p align = "center">
+
 <h4><strong>Connect with me:</strong></h4>
 <p align = "center">
 
