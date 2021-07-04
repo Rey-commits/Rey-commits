@@ -48,8 +48,6 @@
     <td>Mesuga, Reymond and Bayanay, Brian James</td>
   </tr>
 </table>
-<h4><strong>Connect with me:</strong></h4>
-<p align = "center">
 
 <h4><strong>Connect with me:</strong></h4>
 <p align = "center">
