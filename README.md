@@ -39,7 +39,7 @@
 <table>
   <tr>
     <th>Research Field</th>
-    <th>Title</th>
+    <th>Research Title</th>
     <th>Author(s)</th>
   </tr>
   <tr>
