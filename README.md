@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>Deep Learning and Physics</td>
-    <td><a href="https://www.researchgate.net/publication/352981714_On_the_Efficiency_of_Various_Deep_Transfer_Learning_Models_in_Glitch_Waveform_Detection_in_Gravitational-_Wave_Data">On the Efficiency of Various Deep Transfer Learning Models in Glitch Waveform Detection in Gravitational-Wave Data</a></td>
+    <td><a href="https://arxiv.org/abs/2107.01863">On the Efficiency of Various Deep Transfer Learning Models in Glitch Waveform Detection in Gravitational-Wave Data</a></td>
     <td>Mesuga, Reymond and Bayanay, Brian James</td>
   </tr>
 </table>
