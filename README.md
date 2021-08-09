@@ -48,8 +48,8 @@
     <td>Mesuga, Reymond and Bayanay, Brian James</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Deep Learning and Medical Imaging</td>
+    <td>Ivestigation on the Effects of Image Quality on the Performance of Comvolutional Neural Networks to Predict the Possible Existence of Covid-19 in Chest X-ray Images</td>
     <td></td>
   </tr>
 </table>
