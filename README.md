@@ -47,6 +47,11 @@
     <td><a href="https://arxiv.org/abs/2107.01863">On the Efficiency of Various Deep Transfer Learning Models in Glitch Waveform Detection in Gravitational-Wave Data</a></td>
     <td>Mesuga, Reymond and Bayanay, Brian James</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 <h4><strong>Connect with me:</strong></h4>
