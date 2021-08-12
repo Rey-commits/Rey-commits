@@ -1,14 +1,15 @@
 
 ![citynights](https://user-images.githubusercontent.com/74803864/115126848-b57b4480-a004-11eb-951f-ea233d505a20.jpg)
-<h4><strong>Hello there, i'm <a href="https://rey-commits.web.app/" target="_blank" rel="noopener noreferrer">Reymond Mesuga</a></strong></h4>
+<!-- <h4><strong>Hello there, i'm <a href="insert_website_link" target="_blank" rel="noopener noreferrer">Reymond Mesuga</a></strong></h4> -->
+<h4><strong>Hello there, i'm Reymond Mesuga</strong></h4>
 <p>I'm a programmer and a physics student at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I enjoy doing front-end app development on my free time as well as data analysis and A.I. projects. I am:</p>
 <ul>
   <li>Currently working on a research about the application of Deep Learning in the field of medical imaging and in the field of gravitation.</li>
   <li>Currently growing my skills in Web/Software Development and Machine/Deep Learning. I mainly use React framework on most of my app projects and Python libraries for A.I. projects that are mostly focusing on prediction and classification. </li>
 </ul>
-<p><i>Please click my name to check my personal website.</i></p>
+<!-- <p><i>Please click my name to check my personal website.</i></p> -->
 
-<table>
+<!-- <table>
   <tr>
     <th>Field of Interest:</th>
     <th>I am open to:</th>
@@ -34,7 +35,7 @@
     <td>Give my opinion on something. Just message me.</td>
     <td>LinkedIn: https://www.linkedin.com/in/reymondmesuga-421/</td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
