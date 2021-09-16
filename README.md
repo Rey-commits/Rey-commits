@@ -58,7 +58,7 @@
 <table>
   <tr>
     <th>Field of Interest</th>
-    <th>Featured Personal Project Title</th>
+    <th>Featured Personal Projects</th>
     <th>Author</th>
   </tr>
   <tr>
