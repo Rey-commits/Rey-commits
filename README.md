@@ -72,7 +72,7 @@
     <td>Mesuga, Reymond R.</td>
   </tr>
   <tr>
-    <td>Machine Learning, Biology and Pathology</td>
+    <td>Machine Learning and Pathology</td>
     <td><a href="https://github.com/Rey-commits/AI_DeepLearning_MachineLearning_Projects/blob/master/6_Histopathologic-Cancer-Detection/Histopathologic_Cancer_Detection_Using_InceptionV3_Transfer_Learning.ipynb">Histopathologic Cancer Detection Using Transfer Learning with InceptionV3 Base Architecture</a></td>
     <td>Mesuga, Reymond R.</td>
   </tr>
