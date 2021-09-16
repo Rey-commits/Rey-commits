@@ -62,12 +62,12 @@
     <th>Author</th>
   </tr>
   <tr>
-    <td>Machine Learning and Physics</td>
+    <td>Machine Learning and Particle Physics</td>
     <td><a href="https://github.com/Rey-commits/AI_DeepLearning_MachineLearning_Projects/tree/master/7_Electron_Invariant_Mass_Prediction">Electron Invariant Mass Prediction in CERN Electron Collision Data Using Machine Learning Algorithms</a></td>
     <td>Mesuga, Reymond R.</td>
   </tr>
   <tr>
-    <td>Machine Learning and Medical Imaging</td>
+    <td>Machine Learning and Astrophysics</td>
     <td><a href="https://github.com/Rey-commits/AI_DeepLearning_MachineLearning_Projects/tree/master/11_Pulsar_Star_Prediction">Pulsar Star Classification Using High Time Resolution Universe Survey Data with Machine Learning Algorithms</a></td>
     <td>Mesuga, Reymond R.</td>
   </tr>
