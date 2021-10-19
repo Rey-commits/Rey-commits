@@ -55,28 +55,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <th>Field of Interest</th>
-    <th>Featured Personal Projects</th>
-    <th>Author</th>
-  </tr>
-  <tr>
-    <td>Machine Learning and Particle Physics</td>
-    <td><a href="https://github.com/Rey-commits/AI_DeepLearning_MachineLearning_Projects/tree/master/7_Electron_Invariant_Mass_Prediction">Electron Invariant Mass Prediction in CERN Electron Collision Data Using Machine Learning Algorithms</a></td>
-    <td>Mesuga, Reymond R.</td>
-  </tr>
-  <tr>
-    <td>Machine Learning and Astrophysics</td>
-    <td><a href="https://github.com/Rey-commits/AI_DeepLearning_MachineLearning_Projects/tree/master/11_Pulsar_Star_Prediction">Pulsar Star Classification Using High Time Resolution Universe Survey Data with Machine Learning Algorithms</a></td>
-    <td>Mesuga, Reymond R.</td>
-  </tr>
-  <tr>
-    <td>Machine Learning and Pathology</td>
-    <td><a href="https://github.com/Rey-commits/AI_DeepLearning_MachineLearning_Projects/blob/master/6_Histopathologic-Cancer-Detection/Histopathologic_Cancer_Detection_Using_InceptionV3_Transfer_Learning.ipynb">Histopathologic Cancer Detection Using Transfer Learning with InceptionV3 Base Architecture</a></td>
-    <td>Mesuga, Reymond R.</td>
-  </tr>
-</table>
 
 <h4><strong>Connect with me:</strong></h4>
 <p align = "center">
