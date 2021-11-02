@@ -5,7 +5,6 @@
 <p>I'm a programmer and a physics student at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
 <ul>
   <li>Currently working on a research about the application of Deep Learning in the field of medical imaging and in the field of gravitation.</li>
-  <li>Currently working on a research with my supervisor related to land cover change detection and artificial intelligence. </li>
 </ul>
 <!-- <p><i>Please click my name to check my personal website.</i></p> -->
 
