@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>Deep Learning and Astrophysics</td>
-    <td>On the Performance of Various Deep Transfer Learning CNN Models in Glitch Waveform Identification in Gravitational-Wave Data</td>
+    <td><a href="https://arxiv.org/pdf/2107.01863.pdf">On the Performance of Various Deep Transfer Learning CNN Models in Glitch Waveform Identification in Gravitational-Wave Data</a></td>
     <td>Mesuga, Reymond and Bayanay, Brian James</td>
   </tr>
   <tr>
