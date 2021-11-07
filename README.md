@@ -1,8 +1,7 @@
 
 ![citynights](https://user-images.githubusercontent.com/74803864/115126848-b57b4480-a004-11eb-951f-ea233d505a20.jpg)
 <!-- <h4><strong>Hello there, i'm <a href="insert_website_link" target="_blank" rel="noopener noreferrer">Reymond Mesuga</a></strong></h4> -->
-<h4><strong>Hello there, i'm <a href="https://rey-commits.web.app/
-">Reymond Mesuga</a></strong>.</h4>
+<h4><strong>Hello there, i'm Reymond Mesuga</strong>.</h4>
 <p>I'm a programmer and a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
 <ul>
   <li>Currently working on a research about the application of Deep Learning in the field of medical imaging and in the field of gravitation.</li>
