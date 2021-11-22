@@ -4,7 +4,9 @@
 <h4><strong>Hello there, i'm Reymond Mesuga</strong>.</h4>
 <p>I'm a programmer and a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
 <ul>
-  <li>Currently working on a research about the application of Deep Learning in the field of medical imaging and in the field of gravitation.</li>
+  <li>Currently working on a research about the application of Deep Learning (DL) in the field of medical imaging and in the field of gravitation.</li>
+  <li>Currently improving my skills and knowledge in the field of Artificial Intelligence (AI).</li>
+  <li>Currently building and optimizing my website i programmed using React JS.</li>
 </ul>
 <!-- <p><i>Please click my name to check my personal website.</i></p> -->
 
