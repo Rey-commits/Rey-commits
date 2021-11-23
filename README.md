@@ -1,7 +1,7 @@
 
 
 ![citynights](https://user-images.githubusercontent.com/74803864/115126848-b57b4480-a004-11eb-951f-ea233d505a20.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher+and+Programmer;React+JS+Programmer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher+and+Programmer;React+JS+Programmer)
 <!-- <h4><strong>Hello there, i'm <a href="insert_website_link" target="_blank" rel="noopener noreferrer">Reymond Mesuga</a></strong></h4> -->
 <h4><strong>Hello there, i'm Reymond Mesuga</strong>.</h4>
 <p>I'm a programmer and a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
