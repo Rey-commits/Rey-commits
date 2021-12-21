@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td>Deep Learning and Medical Imaging</td>
-    <td>Investigation on the Effects of Image Quality on the Performance of Convolutional Neural Networks to Predict the Possible Existence of Covid-19 in Chest X-ray Images</td>
+    <td>Investigation on the Effects of Radiographic Image Quality on the Performance of Convolutional Neural Networks (CNNs) for COVID-19 Likelihood Prediction in Digital X-ray Scans</td>
     <td>Mesuga, Pernes and Villacruz</td>
   </tr>
 </table>
