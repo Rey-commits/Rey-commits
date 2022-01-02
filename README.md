@@ -48,12 +48,12 @@
   <tr>
     <td>Deep Learning and Astrophysics</td>
     <td><a href="https://arxiv.org/pdf/2107.01863.pdf">On the Performance of Various Deep Transfer Learning CNN Models in Glitch Waveform Identification in Gravitational-Wave Data</a></td>
-    <td>Mesuga, Reymond and Bayanay, Brian James</td>
+    <td>Mesuga, Reymond* and Bayanay, Brian James</td>
   </tr>
   <tr>
     <td>Deep Learning and Medical Imaging</td>
     <td>Investigation on the Effects of Radiographic Image Quality on the Performance of Convolutional Neural Networks (CNNs) for COVID-19 Likelihood Prediction in Digital X-ray Scans</td>
-    <td>Mesuga, Pernes and Villacruz</td>
+    <td>Mesuga*, Pernes and Villacruz</td>
   </tr>
 </table>
 
