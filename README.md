@@ -55,6 +55,18 @@
     <td>Investigation on the Effects of Radiographic Image Quality on the Performance of Convolutional Neural Networks (CNNs) for COVID-19 Likelihood Prediction in Digital X-ray Scans</td>
     <td>Mesuga*, Pernes and Villacruz</td>
   </tr>
+  <tr>
+    <td>Artificial Intelligence</td>
+    <td>CoVision19: An Artificial Intelligence-Based Software for COVID-19
+Likelihood Prediction Using the Combination of X-ray and
+Symptoms Data</td>
+    <td>Mesuga*, Pernes and Villacruz</td>
+  </tr>
+  <tr>
+    <td>Artificial Intelligence and High Energy Physics</td>
+    <td>Incremental Learning Approach on Higgs Bosson Signal Detection</td>
+    <td>Mesuga, Reymond R.</td>
+  </tr>
 </table>
 
 
