@@ -62,11 +62,6 @@ Likelihood Prediction Using the Combination of X-ray and
 Symptoms Data</td>
     <td>Mesuga*, Pernes and Villacruz</td>
   </tr>
-  <tr>
-    <td>Artificial Intelligence and High Energy Physics</td>
-    <td>Incremental Learning Approach on Higgs Bosson Signal Detection</td>
-    <td>Mesuga, Reymond R.</td>
-  </tr>
 </table>
 
 
