@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td>Deep Learning and Astrophysics</td>
-    <td><a a="https://arxiv.org/abs/2107.01863">A Deep Transfer Learning Approach on Identifying Glitch Wave-form in Gravitational Wave Data</a></td>
+    <td><a href="https://arxiv.org/abs/2107.01863">A Deep Transfer Learning Approach on Identifying Glitch Wave-form in Gravitational Wave Data</a></td>
     <td>Mesuga, Reymond* and Bayanay, Brian James</td>
   </tr>
   <tr>
