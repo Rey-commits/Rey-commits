@@ -47,12 +47,12 @@
   </tr>
   <tr>
     <td>Deep Learning and Astrophysics</td>
-    <td><a>On the Performance of Various Deep Transfer Learning CNN Models in Glitch Waveform Identification in Gravitational-Wave Data</a></td>
+    <td><a a="https://arxiv.org/abs/2107.01863">A Deep Transfer Learning Approach on Identifying Glitch Wave-form in Gravitational Wave Data</a></td>
     <td>Mesuga, Reymond* and Bayanay, Brian James</td>
   </tr>
   <tr>
     <td>Deep Learning and Medical Imaging</td>
-    <td>Investigation on the Effects of Radiographic Image Quality on the Performance of Convolutional Neural Networks (CNNs) for COVID-19 Likelihood Prediction in Digital X-ray Scans</td>
+    <td>Investigation on the Effects of Digital Radiographic Image Qualities on the Performance of Convolutional Neural Networks (CNNs) With COVID-19 Data</td>
     <td>Mesuga*, Pernes and Villacruz</td>
   </tr>
   <tr>
@@ -61,6 +61,11 @@
 Likelihood Prediction Using the Combination of X-ray and
 Symptoms Data</td>
     <td>Mesuga*, Pernes and Villacruz</td>
+  </tr>
+  <tr>
+    <td>Particle Physics and Artificial Intelligence</td>
+    <td>Lepton Flavour Violation Identification in Tau Decay (τ− → μ−μ−μ+) Using Artificial Intelligence</td>
+    <td>Reymond Mesuga</td>
   </tr>
 </table>
 
