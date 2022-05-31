@@ -64,7 +64,7 @@ Symptoms Data</td>
   </tr>
   <tr>
     <td>Particle Physics and Artificial Intelligence</td>
-    <td>Lepton Flavour Violation Identification in Tau Decay (τ− → μ−μ−μ+) Using Artificial Intelligence</td>
+    <td><a href="https://arxiv.org/abs/2205.14828">Lepton Flavour Violation Identification in Tau Decay (τ− → μ−μ−μ+) Using Artificial Intelligence</a></td>
     <td>Reymond Mesuga</td>
   </tr>
 </table>
