@@ -6,7 +6,7 @@
 <h4><strong>Hello there, i'm Reymond Mesuga</strong>.</h4>
 <p>I'm a programmer and a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
 <ul>
-  <li>Currently working on a research about the application of Deep Learning (DL) in the field of medical imaging, remote sensing and astrophysics.</li>
+  <li>Currently working on a research about the application of Deep Learning (DL) in the field of medical imaging, remote sensing, particle physics and astrophysics.</li>
   <li>Currently improving the personal website i programmed using React JS as a hobby.</li>
 </ul>
 <!-- <p><i>Please click my name to check my personal website.</i></p> -->
