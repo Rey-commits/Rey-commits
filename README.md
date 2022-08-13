@@ -43,6 +43,11 @@
     <td>Mesuga, Reymond* and Bayanay, Brian James</td>
   </tr>
   <tr>
+    <td>Particle Physics and Artificial Intelligence</td>
+    <td><a href="https://arxiv.org/abs/2205.14828">Lepton Flavour Violation Identification in Tau Decay (τ− → μ−μ−μ+) Using Artificial Intelligence</a></td>
+    <td>Mesuga, Reymond R.</td>
+  </tr>
+  <tr>
     <td>Deep Learning and Medical Imaging</td>
     <td>Investigation on the Effects of Digital Radiographic Image Qualities on the Performance of Convolutional Neural Networks (CNNs) With COVID-19 Data</td>
     <td>Mesuga*, Pernes and Villacruz</td>
@@ -53,11 +58,6 @@
 Likelihood Prediction Using the Combination of X-ray and
 Symptoms Data</td>
     <td>Mesuga*, Pernes and Villacruz</td>
-  </tr>
-  <tr>
-    <td>Particle Physics and Artificial Intelligence</td>
-    <td><a href="https://arxiv.org/abs/2205.14828">Lepton Flavour Violation Identification in Tau Decay (τ− → μ−μ−μ+) Using Artificial Intelligence</a></td>
-    <td>Mesuga, Reymond R.</td>
   </tr>
 </table>
 
