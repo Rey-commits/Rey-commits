@@ -61,6 +61,10 @@ Symptoms Data</td>
   </tr>
 </table>
 
+<p align="center">
+	<img width="450em" src="http://github-readme-streak-stats.herokuapp.com?user=mesuga-reymond&theme=darcula&hide_border=true&background=FFFFFF00"" />
+  <img width="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mesuga-reymond&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+</p>
 
 <h4><strong>Connect with me:</strong></h4>
 <p align = "center">
