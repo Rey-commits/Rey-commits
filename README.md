@@ -1,7 +1,7 @@
 
 
 ![citynights](https://user-images.githubusercontent.com/74803864/115126848-b57b4480-a004-11eb-951f-ea233d505a20.jpg)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher+and+Programmer;React+JS+Programmer)
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher+and+Programmer;React+JS+Programmer) -->
 
 <!-- <table>
   <tr>
@@ -62,8 +62,7 @@ Symptoms Data</td>
 </table>
 
 <p align="center">
-	<img heigth="50%" width="auto" src="http://github-readme-streak-stats.herokuapp.com?user=mesuga-reymond&theme=darcula&hide_border=true&background=FFFFFF00"" />
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mesuga-reymond&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+	<img heigth="50%" width="auto" src="http://github-readme-streak-stats.herokuapp.com?user=mesuga-reymond&theme=gotham&hide_border=true&background=FFFFFF00"" />
 </p>
 
 <h4><strong>Connect with me:</strong></h4>
