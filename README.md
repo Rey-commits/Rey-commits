@@ -1,6 +1,6 @@
 
 
-![293204904_777864946685115_4281707834207902016_n (1)](https://user-images.githubusercontent.com/74803864/184539298-5d5a7c36-07e5-4a80-8c1b-a815fe12da81.png)
+
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher+and+Programmer;React+JS+Programmer) -->
 
 <!-- <table>
@@ -60,19 +60,5 @@ Symptoms Data</td>
     <td>Mesuga*, Pernes and Villacruz</td>
   </tr>
 </table>
-
-<p align="center">
-	<img heigth="50%" width="auto" src="http://github-readme-streak-stats.herokuapp.com?user=mesuga-reymond&theme=gotham&hide_border=true&background=FFFFFF00"" />
-</p>
-
-<h4><strong>Connect with me:</strong></h4>
-<p align = "center">
-  
-
-[<img width="90rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/reymond21/)
-[<img width="90rem" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Rey-commits)
-[<img width="90rem" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/reymond.mesugah/)
-</p>
-
 
 
