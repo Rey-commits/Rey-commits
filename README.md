@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>Deep Learning and Medical Imaging</td>
-    <td>Investigation on the Effects of Digital Radiographic Image Qualities on the Performance of Convolutional Neural Networks (CNNs) With COVID-19 Data</td>
+    <td><a href="https://www.researchgate.net/publication/378311824_INVESTIGATION_ON_THE_EFFECTS_OF_RADIOGRAPHIC_IMAGE_QUALITY_ATTRIBUTES_ON_THE_PERFORMANCE_OF_CONVOLUTIONAL_NEURAL_NETWORKS_CNNS_IN_DETECTING_COVID-19">Investigation on the Effects of Digital Radiographic Image Qualities on the Performance of Convolutional Neural Networks (CNNs) With COVID-19 Data</a></td>
     <td>Mesuga*, Pernes and Villacruz</td>
   </tr>
   <tr>
